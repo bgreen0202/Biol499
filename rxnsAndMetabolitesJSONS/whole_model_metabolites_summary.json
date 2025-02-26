@@ -2,2221 +2,3109 @@
     {
         "id": "2_Amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridinediphosphate_c",
         "name": "2-Amino-4-hydroxy-6-hydroxymethyl-7-8-dihydropteridinediphosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H9N5O8P2"
     },
     {
         "id": "fa6_c",
         "name": "fa6-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C16H31O2"
     },
     {
         "id": "fa6coa_c",
         "name": "fa6coa-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H63N7O17P3S"
     },
     {
         "id": "7_methyl_trans_oct_2_enoyl_ACP_c",
         "name": "7-methyl-trans-oct-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H35N2O8PRS"
     },
     {
         "id": "7_methyl_octanoyl_ACP_c",
         "name": "7-methyl-octanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H37N2O8PRS"
     },
     {
         "id": "Anteisoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Anteisoheptadecanoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C121H236O135P24"
     },
     {
         "id": "Anteisoheptadecanoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Anteisoheptadecanoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C313H548N24O255P24"
     },
     {
         "id": "S_3_Hydroxyhexadecanoyl_CoA_c",
         "name": "3-Hydroxyhexadecanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H62N7O18P3S"
     },
     {
         "id": "3_Oxopalmitoyl_CoA_c",
         "name": "3-Oxopalmitoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H60N7O18P3S"
     },
     {
         "id": "Myristoyl_ACP_c",
         "name": "Myristoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H48N2O8PRS"
     },
     {
         "id": "Myristoyl_CoA_c",
         "name": "Myristoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H58N7O17P3S"
     },
     {
         "id": "trans_2_Methyl_5_isopropylhexa_2_5_dienal_c",
         "name": "trans-2-Methyl-5-isopropylhexa-2-5-dienal-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C10H16O"
     },
     {
         "id": "trans_2_Methyl_5_isopropylhexa_2_5_dienoic_acid_c",
         "name": "trans-2-Methyl-5-isopropylhexa-2-5-dienoic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C10H15O2"
     },
     {
         "id": "9_methyl_3_oxo_decanoyl_ACP_c",
         "name": "9-methyl-3-oxo-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H39N2O9PRS"
     },
     {
         "id": "all_trans_Heptaprenyl_diphosphate_c",
         "name": "all-trans-Heptaprenyl-diphosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H58O7P2"
     },
     {
         "id": "3_Amino_2_oxopropyl_phosphate_c",
         "name": "3-Amino-2-oxopropyl-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C3H7NO5P"
     },
     {
         "id": "CDP_1_2_diisohexadecanoylglycerol_c",
         "name": "CDP-1-2-diisohexadecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C44H79N3O15P2"
     },
     {
         "id": "Diisohexadecanoylphosphatidylserine_c",
         "name": "Diisohexadecanoylphosphatidylserine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H72NO10P"
     },
     {
         "id": "Diisohexadecanoylphosphatidylglycerophosphate_c",
         "name": "Diisohexadecanoylphosphatidylglycerophosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H74O13P2"
     },
     {
         "id": "Diisohexadecanoylphosphatidylglycerol_c",
         "name": "Diisohexadecanoylphosphatidylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H74O10P"
     },
     {
         "id": "Guanidinoethyl_methyl_phosphate_c",
         "name": "Guanidinoethyl-methyl-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C4H12N3O4P"
     },
     {
         "id": "N_Phosphoguanidinoethyl_methyl_phosphate_c",
         "name": "N-Phosphoguanidinoethyl-methyl-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C4H11N3O7P2"
     },
     {
         "id": "6_methyl_octanoyl_ACP_c",
         "name": "6-methyl-octanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H37N2O8PRS"
     },
     {
         "id": "8_methyl_3_oxo_decanoyl_ACP_c",
         "name": "8-methyl-3-oxo-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H39N2O9PRS"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoethanolamine_hexadec_9_enoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoethanolamine-hexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H42NO7P"
     },
     {
         "id": "Glycerophosphoethanolamine_c",
         "name": "Glycerophosphoethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H14NO6P"
     },
     {
         "id": "hexadecenoate_c",
         "name": "hexadecenoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C16H29O2"
     },
     {
         "id": "6_hydroxymethyl_dihydropterin_c",
         "name": "6-hydroxymethyl-dihydropterin-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H9N5O2"
     },
     {
         "id": "1_Hydroxy_2_methyl_2_butenyl_4_diphosphate_c",
         "name": "1-Hydroxy-2-methyl-2-butenyl-4-diphosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H10O8P2"
     },
     {
         "id": "13_methyl_tetra_decanoyl_ACP_c",
         "name": "13-methyl-tetra-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H49N2O8PRS"
     },
     {
         "id": "15_methyl_3_oxo_hexa_decanoyl_ACP_c",
         "name": "15-methyl-3-oxo-hexa-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H51N2O9PRS"
     },
     {
         "id": "CDP_1_2_diisopentadecanoylglycerol_c",
         "name": "CDP-1-2-diisopentadecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H75N3O15P2"
     },
     {
         "id": "Diisopentadecanoylphosphatidylglycerophosphate_c",
         "name": "Diisopentadecanoylphosphatidylglycerophosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H70O13P2"
     },
     {
         "id": "fa4coa_c",
         "name": "fa4coa-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H61N7O17P3S"
     },
     {
         "id": "1_anteisopentadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-anteisopentadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H36O7P"
     },
     {
         "id": "1_tetradecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-tetradecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H33O7P"
     },
     {
         "id": "1_2_ditetradecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-ditetradecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H60O8P"
     },
     {
         "id": "1_2_diisohexadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-diisohexadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H68O8P"
     },
     {
         "id": "3_Methyl_2_oxobutanoate_c",
         "name": "3-Methyl-2-oxobutanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H7O3"
     },
     {
         "id": "15_methyl_trans_hexa_dec_2_enoyl_ACP_c",
         "name": "15-methyl-trans-hexa-dec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H51N2O8PRS"
     },
     {
         "id": "15_methyl_hexa_decanoyl_ACP_c",
         "name": "15-methyl-hexa-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H53N2O8PRS"
     },
     {
         "id": "fa11coa_c",
         "name": "fa11coa-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H65N7O17P3S"
     },
     {
         "id": "1_isoheptadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-isoheptadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H40O7P"
     },
     {
         "id": "11_methyl_dodecanoyl_ACP_c",
         "name": "11-methyl-dodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H45N2O8PRS"
     },
     {
         "id": "13_methyl_3_oxo_tetra_decanoyl_ACP_c",
         "name": "13-methyl-3-oxo-tetra-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H47N2O9PRS"
     },
     {
         "id": "N_Methylhydantoin_c",
         "name": "N-Methylhydantoin-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C4H6N2O2"
     },
     {
         "id": "S_Hydroxymethylglutathione_c",
         "name": "Hydroxymethylglutathione-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C11H18N3O7S"
     },
     {
         "id": "CDP_1_2_diisotetradecanoylglycerol_c",
         "name": "CDP-1-2-diisotetradecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H71N3O15P2"
     },
     {
         "id": "Diisotetradecanoylphosphatidylserine_c",
         "name": "Diisotetradecanoylphosphatidylserine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H64NO10P"
     },
     {
         "id": "7Z_10Z_13Z_16Z_Docosatetraenoyl_CoA_c",
         "name": "7Z-10Z-13Z-16Z-Docosatetraenoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C43H67N7O17P3S"
     },
     {
         "id": "D_methylmalonyl_CoA_c",
         "name": "D-methylmalonyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H35N7O19P3S"
     },
     {
         "id": "Propionyl_CoA_c",
         "name": "Propionyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H36N7O17P3S"
     },
     {
         "id": "4_Methyl_5__2_phosphoethyl_thiazole_c",
         "name": "4-Methyl-5-2-phosphoethyl-thiazole-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H8NO4PS"
     },
     {
         "id": "4_Amino_2_methyl_5_diphosphomethylpyrimidine_c",
         "name": "4-Amino-2-methyl-5-diphosphomethylpyrimidine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H9N3O7P2"
     },
     {
         "id": "2_dodecanoyl_sn_glycerol_3_phosphate_c",
         "name": "2-dodecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C15H30O7P"
     },
     {
         "id": "ddca_c",
         "name": "ddca-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C12H23O2"
     },
     {
         "id": "Tetrahydropteroyltri_L_glutamate_c",
         "name": "Tetrahydropteroyltri-L-glutamate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H33N9O12"
     },
     {
         "id": "5_Methyltetrahydropteroyltri_L_glutamate_c",
         "name": "5-Methyltetrahydropteroyltri-L-glutamate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C30H35N9O12"
     },
     {
         "id": "1_2_Diacyl_sn_glycerol_ditetradec_7_enoyl_c",
         "name": "1-2-Diacyl-sn-glycerol-ditetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H56O5"
     },
     {
         "id": "1_2_ditetradec_7_enoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-ditetradec-7-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H56O8P"
     },
     {
         "id": "kdo2_lipid_a_c",
         "name": "kdo2-lipid-a-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C110H196N2O39P2"
     },
     {
         "id": "heptosyl_kdo2_lipidA_c",
         "name": "heptosyl-kdo2-lipidA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C117H211N2O45P2"
     },
     {
         "id": "1_2_Dianteisoheptadecanoyl_sn_glycerol_c",
         "name": "1-2-Dianteisoheptadecanoyl-sn-glycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H72O5"
     },
     {
         "id": "1_2_dianteisoheptadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-dianteisoheptadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H72O8P"
     },
     {
         "id": "Octodecanoyl_ACP_c",
         "name": "Octodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H55N2O8PRS"
     },
     {
         "id": "fa3coa_c",
         "name": "fa3coa-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H61N7O17P3S"
     },
     {
         "id": "1_dodecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-dodecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C15H29O7P"
     },
     {
         "id": "Lipid_A_disaccharide_c",
         "name": "Lipid-A-disaccharide-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C68H127N2O20P"
     },
     {
         "id": "Lipid_IVA_c",
         "name": "Lipid-IVA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C68H126N2O23P2"
     },
     {
         "id": "1_2_diisoheptadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-diisoheptadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H72O8P"
     },
     {
         "id": "CDP_1_2_ditetradec_7_enoylglycerol_c",
         "name": "CDP-1-2-ditetradec-7-enoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H67N3O15P2"
     },
     {
         "id": "2_octadec_11_enoyl_sn_glycerol_3_phosphate_c",
         "name": "2-octadec-11-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H40O7P"
     },
     {
         "id": "octadecenoate_c",
         "name": "octadecenoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H33O2"
     },
     {
         "id": "6_methyl_trans_oct_2_enoyl_ACP_c",
         "name": "6-methyl-trans-oct-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H35N2O8PRS"
     },
     {
         "id": "3_Oxohexanoyl_acp_c",
         "name": "3-Oxohexanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H30N2O9PRS"
     },
     {
         "id": "Hexanoyl_CoA_c",
         "name": "Hexanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H42N7O17P3S"
     },
     {
         "id": "3_Oxooctanoyl_CoA_c",
         "name": "3-Oxooctanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H44N7O18P3S"
     },
     {
         "id": "Maltotetraose_c",
         "name": "Maltotetraose-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H42O21"
     },
     {
         "id": "Maltopentaose_c",
         "name": "Maltopentaose-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C30H52O26"
     },
     {
         "id": "CDP_1_2_ditetradecanoylglycerol_c",
         "name": "CDP-1-2-ditetradecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H71N3O15P2"
     },
     {
         "id": "phosphatidylserine_ditetradecanoyl_c",
         "name": "phosphatidylserine-ditetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H64NO10P"
     },
     {
         "id": "3_Carboxy_1_hydroxypropyl_ThPP_c",
         "name": "3-Carboxy-1-hydroxypropyl-ThPP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C16H22N4O10P2S"
     },
     {
         "id": "CDP_1_2_dihexadec_9_enoylglycerol_c",
         "name": "CDP-1-2-dihexadec-9-enoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C44H75N3O15P2"
     },
     {
         "id": "phosphatidylserine_dihexadec_9_enoyl_c",
         "name": "phosphatidylserine-dihexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H68NO10P"
     },
     {
         "id": "Glycerophosphoglycerol_c",
         "name": "Glycerophosphoglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H14O8P"
     },
     {
         "id": "2_Isopropylmalate_c",
         "name": "2-Isopropylmalate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H10O5"
     },
     {
         "id": "6_Oxo_2_hydroxycyclohexane_1_carboxyl_CoA_c",
         "name": "6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H41N7O19P3S"
     },
     {
         "id": "methylthioribulose_1_phosphate_c",
         "name": "methylthioribulose-1-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H11O7PS"
     },
     {
         "id": "2_3_diketo5_methylthio_1_phosphopentane_c",
         "name": "2-3-diketo5-methylthio-1-phosphopentane-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H9O6PS"
     },
     {
         "id": "2_5_Dioxopentanoate_c",
         "name": "2-5-Dioxopentanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H5O4"
     },
     {
         "id": "methylthioribose_1_phosphate_c",
         "name": "methylthioribose-1-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H11O7PS"
     },
     {
         "id": "Hydroxymethylbilane_c",
         "name": "Hydroxymethylbilane-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H38N4O17"
     },
     {
         "id": "Hexanoyl_ACP_c",
         "name": "Hexanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H31N2O8PRS"
     },
     {
         "id": "3_oxooctanoyl_acp_c",
         "name": "3-oxooctanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H34N2O9PRS"
     },
     {
         "id": "phosphatidylethanolamine_ditetradecanoyl_c",
         "name": "phosphatidylethanolamine-ditetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H66NO8P"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoethanolamine_dodecanoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoethanolamine-dodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H36NO7P"
     },
     {
         "id": "2_Methylbutyryl_CoA_c",
         "name": "2-Methylbutyryl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H40N7O17P3S"
     },
     {
         "id": "2_methylbutyryl_ACP_c",
         "name": "2-methylbutyryl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C16H29N2O8PRS"
     },
     {
         "id": "R_3_Hydroxy_3_methyl_2_oxopentanoate_c",
         "name": "R-3-Hydroxy-3-methyl-2-oxopentanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H9O4"
     },
     {
         "id": "12_methyl_trans_tetra_dec_2_enoyl_ACP_c",
         "name": "12-methyl-trans-tetra-dec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H47N2O8PRS"
     },
     {
         "id": "12_methyl_tetra_decanoyl_ACP_c",
         "name": "12-methyl-tetra-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H49N2O8PRS"
     },
     {
         "id": "2_Demethylmenaquinone_8_c",
         "name": "2-Demethylmenaquinone-8-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C50H70O2"
     },
     {
         "id": "2_Demethylmenaquinol_8_c",
         "name": "2-Demethylmenaquinol-8-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C50H72O2"
     },
     {
         "id": "2_C_methyl_D_erythritol2_4_cyclodiphosphate_c",
         "name": "2-C-methyl-D-erythritol2-4-cyclodiphosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H10O9P2"
     },
     {
         "id": "13_methyl_3_hydroxy_tetra_decanoyl_ACP_c",
         "name": "13-methyl-3-hydroxy-tetra-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H49N2O9PRS"
     },
     {
         "id": "phosphatidylserine_dioctadecanoyl_c",
         "name": "phosphatidylserine-dioctadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H80NO10P"
     },
     {
         "id": "phosphatidylethanolamine_dioctadecanoyl_c",
         "name": "phosphatidylethanolamine-dioctadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C41H82NO8P"
     },
     {
         "id": "2E_Dodecenoyl_acp_c",
         "name": "2E-Dodecenoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H41N2O8PRS"
     },
     {
         "id": "Dodecanoyl_ACP_c",
         "name": "Dodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H44N2O8PRS"
     },
     {
         "id": "1_octadec_11_enoyl_sn_glycerol_3_phosphate_c",
         "name": "1-octadec-11-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H40O7P"
     },
     {
         "id": "CDP_1_2_dianteisopentadecanoylglycerol_c",
         "name": "CDP-1-2-dianteisopentadecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H75N3O15P2"
     },
     {
         "id": "Dianteisopentadecanoylphosphatidylserine_c",
         "name": "Dianteisopentadecanoylphosphatidylserine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H68NO10P"
     },
     {
         "id": "4_methyl_pentanoyl_ACP_c",
         "name": "4-methyl-pentanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H31N2O8PRS"
     },
     {
         "id": "6_methyl_3_oxo_heptanoyl_ACP_c",
         "name": "6-methyl-3-oxo-heptanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H33N2O9PRS"
     },
     {
         "id": "L_2_Lysophosphatidylethanolamine_c",
         "name": "L-2-Lysophosphatidylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H46NO7P"
     },
     {
         "id": "2_C_methyl_D_erythritol4_phosphate_c",
         "name": "2-C-methyl-D-erythritol4-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H11O7P"
     },
     {
         "id": "5_Methylthioadenosine_c",
         "name": "5-Methylthioadenosine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C11H15N5O3S"
     },
     {
         "id": "8_methyl_3_oxo_nonanoyl_ACP_c",
         "name": "8-methyl-3-oxo-nonanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H37N2O9PRS"
     },
     {
         "id": "8_methyl_3_hydroxy_nonanoyl_ACP_c",
         "name": "8-methyl-3-hydroxy-nonanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H39N2O9PRS"
     },
     {
         "id": "Nervonoyl_CoA_c",
         "name": "Nervonoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C45H77N7O17P3S"
     },
     {
         "id": "Nervonic_acid_c",
         "name": "Nervonic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H45O2"
     },
     {
         "id": "2_methyl_3_hydroxy_butyryl_CoA_c",
         "name": "2-methyl-3-hydroxy-butyryl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H40N7O18P3S"
     },
     {
         "id": "2_Methylacetoacetyl_CoA_c",
         "name": "2-Methylacetoacetyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H38N7O18P3S"
     },
     {
         "id": "Palmitoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Palmitoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C119H232O135P24"
     },
     {
         "id": "Palmitoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Palmitoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C311H544N24O255P24"
     },
     {
         "id": "Tiglyl_CoA_c",
         "name": "Tiglyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H38N7O17P3S"
     },
     {
         "id": "Phosphatidylglycerophosphate_dihexadec_9_enoyl_c",
         "name": "Phosphatidylglycerophosphate-dihexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H70O13P2"
     },
     {
         "id": "Phosphatidylglycerol_dihexadec_9_enoyl_c",
         "name": "Phosphatidylglycerol-dihexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H70O10P"
     },
     {
         "id": "fa4_c",
         "name": "fa4-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C15H29O2"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoethanolamine_n_C16_0_c",
         "name": "2-Acyl-sn-glycero-3-phosphoethanolamine-n-C16-0-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H44NO7P"
     },
     {
         "id": "Palmitate_c",
         "name": "Palmitate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C16H31O2"
     },
     {
         "id": "3_Oxooctodecanoyl_ACP_c",
         "name": "3-Oxooctodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H53N2O9PRS"
     },
     {
         "id": "3_Hydroxyoctodecanoyl_ACP_c",
         "name": "3-Hydroxyoctodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H55N2O9PRS"
     },
     {
         "id": "24_Methylenecycloartanol_c",
         "name": "24-Methylenecycloartanol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H52O"
     },
     {
         "id": "1_2_didodecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-didodecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H52O8P"
     },
     {
         "id": "1_2_diisotetradecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-diisotetradecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H60O8P"
     },
     {
         "id": "Dianteisopentadecanoylphosphatidylglycerophosphate_c",
         "name": "Dianteisopentadecanoylphosphatidylglycerophosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H70O13P2"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoglycerol_hexadec_9_enoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoglycerol-hexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H42O9P"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoglycerol_dodecanoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoglycerol-dodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H36O9P"
     },
     {
         "id": "Serine_phosphoethanolamine_c",
         "name": "Serine-phosphoethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H13N2O6P"
     },
     {
         "id": "Phosphoethanolamine_c",
         "name": "Phosphoethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C2H7NO4P"
     },
     {
         "id": "6_methyl_heptanoyl_ACP_c",
         "name": "6-methyl-heptanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H35N2O8PRS"
     },
     {
         "id": "1_hexadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-hexadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H38O7P"
     },
     {
         "id": "Octadecanoyl_ACP_c",
         "name": "Octadecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H55N2O8PRS"
     },
     {
         "id": "1_octadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-octadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H41O7P"
     },
     {
         "id": "1_2_Diisopentadecanoyl_sn_glycerol_c",
         "name": "1-2-Diisopentadecanoyl-sn-glycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H64O5"
     },
     {
         "id": "1_2_diisopentadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-diisopentadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H64O8P"
     },
     {
         "id": "Anteisopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Anteisopentadecanoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C117H228O135P24"
     },
     {
         "id": "Anteisopentadecanoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Anteisopentadecanoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C309H540N24O255P24"
     },
     {
         "id": "CDP_1_2_dihexadecanoylglycerol_c",
         "name": "CDP-1-2-dihexadecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C44H79N3O15P2"
     },
     {
         "id": "Phosphatidylglycerophosphate_dihexadecanoyl_c",
         "name": "Phosphatidylglycerophosphate-dihexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H74O13P2"
     },
     {
         "id": "Decanoyl_ACP_c",
         "name": "Decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H40N2O8PRS"
     },
     {
         "id": "3_oxododecanoyl_acp_c",
         "name": "3-oxododecanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H42N2O9PRS"
     },
     {
         "id": "8_methyl_trans_dec_2_enoyl_ACP_c",
         "name": "8-methyl-trans-dec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H39N2O8PRS"
     },
     {
         "id": "8_methyl_decanoyl_ACP_c",
         "name": "8-methyl-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H41N2O8PRS"
     },
     {
         "id": "2_Octaprenyl_3_methyl_5_hydroxy_6_methoxy_1_4_benzoquinone_c",
         "name": "2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1-4-benzoquinone-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C48H72O4"
     },
     {
         "id": "hexadecanoyl_acp_c",
         "name": "hexadecanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H51N2O8PRS"
     },
     {
         "id": "Palmitoyl_CoA_c",
         "name": "Palmitoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H62N7O17P3S"
     },
     {
         "id": "1_2_dioctadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-dioctadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C39H76O8P"
     },
     {
         "id": "1_2_Diacyl_sn_glycerol_dioctadec_11_enoyl_c",
         "name": "1-2-Diacyl-sn-glycerol-dioctadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C39H72O5"
     },
     {
         "id": "1_2_dioctadec_11_enoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-dioctadec-11-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C39H72O8P"
     },
     {
         "id": "1_2_Diacyl_sn_glycerol_dihexadecanoyl_c",
         "name": "1-2-Diacyl-sn-glycerol-dihexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H68O5"
     },
     {
         "id": "1_2_dihexadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-dihexadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H68O8P"
     },
     {
         "id": "hexanal_c",
         "name": "hexanal-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H12O"
     },
     {
         "id": "14_methyl_trans_pentadec_2_enoyl_ACP_c",
         "name": "14-methyl-trans-pentadec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H49N2O8PRS"
     },
     {
         "id": "14_methyl_pentadecanoyl_ACP_c",
         "name": "14-methyl-pentadecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H51N2O8PRS"
     },
     {
         "id": "4_methyl_3_oxo_pentanoyl_ACP_c",
         "name": "4-methyl-3-oxo-pentanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H29N2O9PRS"
     },
     {
         "id": "4_methyl_3_hydroxy_pentanoyl_ACP_c",
         "name": "4-methyl-3-hydroxy-pentanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H31N2O9PRS"
     },
     {
         "id": "13_methyl_trans_tetra_dec_2_enoyl_ACP_c",
         "name": "13-methyl-trans-tetra-dec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H47N2O8PRS"
     },
     {
         "id": "CDP_1_2_dioctadec_11_enoylglycerol_c",
         "name": "CDP-1-2-dioctadec-11-enoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C48H83N3O15P2"
     },
     {
         "id": "Phosphatidylglycerophosphate_dioctadec_11_enoyl_c",
         "name": "Phosphatidylglycerophosphate-dioctadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H78O13P2"
     },
     {
         "id": "2_octadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "2-octadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H42O7P"
     },
     {
         "id": "ocdca_c",
         "name": "ocdca-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H35O2"
     },
     {
         "id": "1_isopentadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-isopentadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H36O7P"
     },
     {
         "id": "3_oxotetradecanoyl_acp_c",
         "name": "3-oxotetradecanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H46N2O9PRS"
     },
     {
         "id": "10_methyl_3_oxo_undecanoyl_ACP_c",
         "name": "10-methyl-3-oxo-undecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H41N2O9PRS"
     },
     {
         "id": "10_methyl_3_hydroxy_undecanoyl_ACP_c",
         "name": "10-methyl-3-hydroxy-undecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H43N2O9PRS"
     },
     {
         "id": "all_trans_Hexaprenyl_diphosphate_c",
         "name": "all-trans-Hexaprenyl-diphosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C30H50O7P2"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoethanolamine_octadec_11_enoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoethanolamine-octadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H46NO7P"
     },
     {
         "id": "5_methyl_3_oxo_hexanoyl_ACP_c",
         "name": "5-methyl-3-oxo-hexanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H31N2O9PRS"
     },
     {
         "id": "5_methyl_3_hydroxy_hexanoyl_ACP_c",
         "name": "5-methyl-3-hydroxy-hexanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H33N2O9PRS"
     },
     {
         "id": "2_Acetamido_5_oxopentanoate_c",
         "name": "2-Acetamido-5-oxopentanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H10NO4"
     },
     {
         "id": "S_3_Hydroxytetradecanoyl_CoA_c",
         "name": "3-Hydroxytetradecanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H58N7O18P3S"
     },
     {
         "id": "3_Oxotetradecanoyl_CoA_c",
         "name": "3-Oxotetradecanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H56N7O18P3S"
     },
     {
         "id": "10_methyl_trans_undec_2_enoyl_ACP_c",
         "name": "10-methyl-trans-undec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H41N2O8PRS"
     },
     {
         "id": "10_methyl_undecanoyl_ACP_c",
         "name": "10-methyl-undecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H43N2O8PRS"
     },
     {
         "id": "6_methyl_trans_hept_2_enoyl_ACP_c",
         "name": "6-methyl-trans-hept-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H33N2O8PRS"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoethanolamine_tetradecanoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoethanolamine-tetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H40NO7P"
     },
     {
         "id": "Myristic_acid_c",
         "name": "Myristic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C14H27O2"
     },
     {
         "id": "3alpha_7alpha_12alpha_24_Tetrahydroxy_5beta_cholestanoyl_CoA_c",
         "name": "3alpha-7alpha-12alpha-24-Tetrahydroxy-5beta-cholestanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C48H77N7O21P3S"
     },
     {
         "id": "4_methyl_3_oxo_hexanoyl_ACP_c",
         "name": "4-methyl-3-oxo-hexanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H31N2O9PRS"
     },
     {
         "id": "2_3_Dihydroxy_3_methylvalerate_c",
         "name": "2-3-Dihydroxy-3-methylvalerate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H11O4"
     },
     {
         "id": "6_7_Dimethyl_8__1_D_ribityllumazine_c",
         "name": "6-7-Dimethyl-8-1-D-ribityllumazine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C13H17N4O6"
     },
     {
         "id": "Diisohexadecanoylphosphatidylethanolamine_c",
         "name": "Diisohexadecanoylphosphatidylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H74NO8P"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoethanolamine_n_C18_0_c",
         "name": "2-Acyl-sn-glycero-3-phosphoethanolamine-n-C18-0-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H48NO7P"
     },
     {
         "id": "3_Methylsalicylaldehyde_c",
         "name": "3-Methylsalicylaldehyde-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H8O2"
     },
     {
         "id": "3_Methylsalicylate_c",
         "name": "3-Methylsalicylate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H7O3"
     },
     {
         "id": "Plasmenylethanolamine_c",
         "name": "Plasmenylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H13NO7PR2"
     },
     {
         "id": "CDPethanolamine_c",
         "name": "CDPethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C11H19N4O11P2"
     },
     {
         "id": "2_phospho_4__cytidine5_diphospho_2_C_methyl_D_erythritol_c",
         "name": "2-phospho-4-cytidine5-diphospho-2-C-methyl-D-erythritol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C14H22N3O17P3"
     },
     {
         "id": "1_Alkyl_2_acylglycerophosphoethanolamine_c",
         "name": "1-Alkyl-2-acylglycerophosphoethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H11NO7PR2"
     },
     {
         "id": "Palmitoyl_ACP_c",
         "name": "Palmitoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H51N2O8PRS"
     },
     {
         "id": "CDP_1_2_dioctadecanoylglycerol_c",
         "name": "CDP-1-2-dioctadecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C48H87N3O15P2"
     },
     {
         "id": "CDP_1_2_dianteisoheptadecanoylglycerol_c",
         "name": "CDP-1-2-dianteisoheptadecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C46H83N3O15P2"
     },
     {
         "id": "Dianteisoheptadecanoylphosphatidylserine_c",
         "name": "Dianteisoheptadecanoylphosphatidylserine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H76NO10P"
     },
     {
         "id": "R_3_hydroxypalmitoyl_acyl_carrierprotein__c",
         "name": "R-3-hydroxypalmitoyl-acyl-carrierprotein-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H51N2O9PRS"
     },
     {
         "id": "3_oxohexadecanoyl_acp_c",
         "name": "3-oxohexadecanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H50N2O9PRS"
     },
     {
         "id": "2_Methylnaphthalene_c",
         "name": "2-Methylnaphthalene-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C11H10"
     },
     {
         "id": "Naphthyl_2_methyl_succinic_acid_c",
         "name": "Naphthyl-2-methyl-succinic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C15H12O4"
     },
     {
         "id": "10_methyl_3_oxo_dodecanoyl_ACP_c",
         "name": "10-methyl-3-oxo-dodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H43N2O9PRS"
     },
     {
         "id": "7Z_10Z_13Z_16Z_19Z_Docosapentaenoyl_CoA_c",
         "name": "7Z-10Z-13Z-16Z-19Z-Docosapentaenoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C43H65N7O17P3S"
     },
     {
         "id": "Docosapentaenoic_acid_c",
         "name": "Docosapentaenoic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H33O2"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoglycerol_octadecanoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoglycerol-octadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H48O9P"
     },
     {
         "id": "phospho_heptosyl_heptosyl_kdo2_lipidA_c",
         "name": "phospho-heptosyl-heptosyl-kdo2-lipidA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C124H219N2O54P3"
     },
     {
         "id": "heptosyl_phospho_heptosyl_heptosyl_kdo2_lipidA_c",
         "name": "heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C131H231N2O60P3"
     },
     {
         "id": "fa1coa_c",
         "name": "fa1coa-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H59N7O17P3S"
     },
     {
         "id": "1_isotetradecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-isotetradecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H34O7P"
     },
     {
         "id": "1_tetradec_7_enoyl_sn_glycerol_3_phosphate_c",
         "name": "1-tetradec-7-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H32O7P"
     },
     {
         "id": "tetradecenoate_c",
         "name": "tetradecenoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C14H25O2"
     },
     {
         "id": "CDP_1_2_didodecanoylglycerol_c",
         "name": "CDP-1-2-didodecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H63N3O15P2"
     },
     {
         "id": "2_hexadec_9_enoyl_sn_glycerol_3_phosphate_c",
         "name": "2-hexadec-9-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H36O7P"
     },
     {
         "id": "D_3_Hydroxydodecanoyl_acp_c",
         "name": "D-3-Hydroxydodecanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C23H43N2O9PRS"
     },
     {
         "id": "7_methyl_3_oxo_octanoyl_ACP_c",
         "name": "7-methyl-3-oxo-octanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H35N2O9PRS"
     },
     {
         "id": "7_methyl_3_hydroxy_octanoyl_ACP_c",
         "name": "7-methyl-3-hydroxy-octanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H37N2O9PRS"
     },
     {
         "id": "4_Amino_5_phosphomethyl_2_methylpyrimidine_c",
         "name": "4-Amino-5-phosphomethyl-2-methylpyrimidine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H8N3O4P"
     },
     {
         "id": "UDP_2_3_bis3_hydroxytetradecanoylglucosamine_c",
         "name": "UDP-2-3-bis3-hydroxytetradecanoylglucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C43H75N3O20P2"
     },
     {
         "id": "Lipid_X_c",
         "name": "Lipid-X-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H64NO12P"
     },
     {
         "id": "Maltohexaose_c",
         "name": "Maltohexaose-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H62O31"
     },
     {
         "id": "tetrahydrodipicolinate_c",
         "name": "tetrahydrodipicolinate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H7NO4"
     },
     {
         "id": "4__cytidine5_diphospho_2_C_methyl_D_erythritol_c",
         "name": "4-cytidine5-diphospho-2-C-methyl-D-erythritol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C14H23N3O14P2"
     },
     {
         "id": "phosphatidylserine_didodecanoyl_c",
         "name": "phosphatidylserine-didodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C30H56NO10P"
     },
     {
         "id": "phosphatidylethanolamine_didodecanoyl_c",
         "name": "phosphatidylethanolamine-didodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H58NO8P"
     },
     {
         "id": "9_methyl_decanoyl_ACP_c",
         "name": "9-methyl-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H41N2O8PRS"
     },
     {
         "id": "11_methyl_3_oxo_dodecanoyl_ACP_c",
         "name": "11-methyl-3-oxo-dodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H43N2O9PRS"
     },
     {
         "id": "fa12_c",
         "name": "fa12-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H33O2"
     },
     {
         "id": "fa12coa_c",
         "name": "fa12coa-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H65N7O17P3S"
     },
     {
         "id": "2_Octaprenyl_6_methoxyphenol_c",
         "name": "2-Octaprenyl-6-methoxyphenol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C47H72O2"
     },
     {
         "id": "2_Octaprenyl_6_methoxy_1_4_benzoquinone_c",
         "name": "2-Octaprenyl-6-methoxy-1-4-benzoquinone-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C47H70O3"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoethanolamine_tetradecanoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoethanolamine-tetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H40NO7P"
     },
     {
         "id": "cis_2_Methyl_5_isopropylhexa_2_5_dienal_c",
         "name": "cis-2-Methyl-5-isopropylhexa-2-5-dienal-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C10H16O"
     },
     {
         "id": "cis_2_Methyl_5_isopropylhexa_2_5_dienoic_acid_c",
         "name": "cis-2-Methyl-5-isopropylhexa-2-5-dienoic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C10H15O2"
     },
     {
         "id": "14_methyl_3_oxo_pentadecanoyl_ACP_c",
         "name": "14-methyl-3-oxo-pentadecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H49N2O9PRS"
     },
     {
         "id": "14_methyl_3_hydroxy_pentadecanoyl_ACP_c",
         "name": "14-methyl-3-hydroxy-pentadecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H51N2O9PRS"
     },
     {
         "id": "4_Hydroxy_5_phenyltetrahydro_1_3_oxazin_2_one_c",
         "name": "4-Hydroxy-5-phenyltetrahydro-1-3-oxazin-2-one-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C10H11NO3"
     },
     {
         "id": "Dianteisopentadecanoylphosphatidylethanolamine_c",
         "name": "Dianteisopentadecanoylphosphatidylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H70NO8P"
     },
     {
         "id": "6_methyl_3_oxo_octanoyl_ACP_c",
         "name": "6-methyl-3-oxo-octanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H35N2O9PRS"
     },
     {
         "id": "6_methyl_3_hydroxy_octanoyl_ACP_c",
         "name": "6-methyl-3-hydroxy-octanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H37N2O9PRS"
     },
     {
         "id": "phosphatidylethanolamine_dihexadec_9enoyl_c",
         "name": "phosphatidylethanolamine-dihexadec-9enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H70NO8P"
     },
     {
         "id": "Icosenoyl_CoA_c",
         "name": "Icosenoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C41H69N7O17P3S"
     },
     {
         "id": "Icosenoic_acid_c",
         "name": "Icosenoic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H37O2"
     },
     {
         "id": "Phosphatidylglycerophosphate_dioctadecanoyl_c",
         "name": "Phosphatidylglycerophosphate-dioctadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H82O13P2"
     },
     {
         "id": "Phosphatidylglycerol_dioctadecanoyl_c",
         "name": "Phosphatidylglycerol-dioctadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H82O10P"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoglycerol_octadecanoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoglycerol-octadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H48O9P"
     },
     {
         "id": "Phosphatidylglycerophosphate_ditetradec_7_enoyl_c",
         "name": "Phosphatidylglycerophosphate-ditetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H62O13P2"
     },
     {
         "id": "Phosphatidylglycerol_ditetradec_7_enoyl_c",
         "name": "Phosphatidylglycerol-ditetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H62O10P"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoglycerol_tetradec_7_enoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoglycerol-tetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H38O9P"
     },
     {
         "id": "R_3_Hydroxydecanoyl_acyl_carrier_protein_c",
         "name": "R-3-Hydroxydecanoyl-acyl-carrier-protein-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H40N2O9PRS"
     },
     {
         "id": "3_oxodecanoyl_acp_c",
         "name": "3-oxodecanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H38N2O9PRS"
     },
     {
         "id": "Tetradecenoyl_ACP_c",
         "name": "Tetradecenoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H45N2O8PRS"
     },
     {
         "id": "12_methyl_tridecanoyl_ACP_c",
         "name": "12-methyl-tridecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H47N2O8PRS"
     },
     {
         "id": "Diisoheptadecanoylphosphatidylglycerophosphate_c",
         "name": "Diisoheptadecanoylphosphatidylglycerophosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H78O13P2"
     },
     {
         "id": "Diisoheptadecanoylphosphatidylglycerol_c",
         "name": "Diisoheptadecanoylphosphatidylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H78O10P"
     },
     {
         "id": "1_2_dihexadec_9_enoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-dihexadec-9-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H64O8P"
     },
     {
         "id": "1_2_dianteisopentadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-2-dianteisopentadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H64O8P"
     },
     {
         "id": "D_3_Hydroxyhexanoyl_acp_c",
         "name": "D-3-Hydroxyhexanoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H31N2O9PRS"
     },
     {
         "id": "12_methyl_3_oxo_tetra_decanoyl_ACP_c",
         "name": "12-methyl-3-oxo-tetra-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H47N2O9PRS"
     },
     {
         "id": "12_methyl_3_hydroxy_tetra_decanoyl_ACP_c",
         "name": "12-methyl-3-hydroxy-tetra-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H49N2O9PRS"
     },
     {
         "id": "3_Isopropylmalate_c",
         "name": "3-Isopropylmalate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H10O5"
     },
     {
         "id": "2_Isopropylmaleate_c",
         "name": "2-Isopropylmaleate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H8O4"
     },
     {
         "id": "2_isopropyl_3_oxosuccinate_c",
         "name": "2-isopropyl-3-oxosuccinate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H8O5"
     },
     {
         "id": "1_2_Diisohexadecanoyl_sn_glycerol_c",
         "name": "1-2-Diisohexadecanoyl-sn-glycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H68O5"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoglycerol_tetradec_7_enoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoglycerol-tetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H38O9P"
     },
     {
         "id": "Docosanoate_c",
         "name": "Docosanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H43O2"
     },
     {
         "id": "1_2_Diacyl_sn_glycerol_dioctadecanoyl_c",
         "name": "1-2-Diacyl-sn-glycerol-dioctadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C39H76O5"
     },
     {
         "id": "heptosyl_heptosyl_kdo2_lipidA_c",
         "name": "heptosyl-heptosyl-kdo2-lipidA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C124H223N2O51P2"
     },
     {
         "id": "Propionyladenylate_c",
         "name": "Propionyladenylate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C13H17N5O8P"
     },
     {
         "id": "1_anteisoheptadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-anteisoheptadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H40O7P"
     },
     {
         "id": "L_erythro_3_Methylmalyl_CoA_c",
         "name": "L-erythro-3-Methylmalyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C26H38N7O20P3S"
     },
     {
         "id": "14_methyl_hexa_decanoyl_ACP_c",
         "name": "14-methyl-hexa-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H53N2O8PRS"
     },
     {
         "id": "2_hexadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "2-hexadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H38O7P"
     },
     {
         "id": "14_methyl_3_oxo_hexa_decanoyl_ACP_c",
         "name": "14-methyl-3-oxo-hexa-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H51N2O9PRS"
     },
     {
         "id": "14_methyl_3_hydroxy_hexa_decanoyl_ACP_c",
         "name": "14-methyl-3-hydroxy-hexa-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H53N2O9PRS"
     },
     {
         "id": "5_methyl_hexanoyl_ACP_c",
         "name": "5-methyl-hexanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H33N2O8PRS"
     },
     {
         "id": "2E_Octadecenoyl_acp_c",
         "name": "2E-Octadecenoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H54N2O8PRS"
     },
     {
         "id": "Octanoyl_ACP_c",
         "name": "Octanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H36N2O8PRS"
     },
     {
         "id": "octanoate_c",
         "name": "octanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H15O2"
     },
     {
         "id": "Inositol_1_2_3_5_6_pentakisphosphate_c",
         "name": "Inositol-1-2-3-5-6-pentakisphosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H12O21P5"
     },
     {
         "id": "Hexadecenoyl_CoA_c",
         "name": "Hexadecenoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H61N7O17P3S"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoglycerol_tetradecanoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoglycerol-tetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H40O9P"
     },
     {
         "id": "11_methyl_3_hydroxy_dodecanoyl_ACP_c",
         "name": "11-methyl-3-hydroxy-dodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H45N2O9PRS"
     },
     {
         "id": "Diisopentadecanoylphosphatidylserine_c",
         "name": "Diisopentadecanoylphosphatidylserine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H68NO10P"
     },
     {
         "id": "Diisopentadecanoylphosphatidylethanolamine_c",
         "name": "Diisopentadecanoylphosphatidylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H70NO8P"
     },
     {
         "id": "S_Hydroxydecanoyl_CoA_c",
         "name": "Hydroxydecanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H50N7O18P3S"
     },
     {
         "id": "3_Oxodecanoyl_CoA_c",
         "name": "3-Oxodecanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H48N7O18P3S"
     },
     {
         "id": "2_Octaprenyl_3_methyl_6_methoxy_1_4_benzoquinone_c",
         "name": "2-Octaprenyl-3-methyl-6-methoxy-1-4-benzoquinone-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C48H72O3"
     },
     {
         "id": "UDP_3_O_beta_hydroxymyristoyl_D_glucosamine_c",
         "name": "UDP-3-O-beta-hydroxymyristoyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H50N3O18P2"
     },
     {
         "id": "Calmodulin_N6_methyl_L_lysine_c",
         "name": "Calmodulin-N6-methyl-L-lysine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H15N3O2R2"
     },
     {
         "id": "D_erythro_3_Methylmalate_c",
         "name": "D-erythro-3-Methylmalate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H6O5"
     },
     {
         "id": "3_Isopropylbut_3_enoyl_CoA_c",
         "name": "3-Isopropylbut-3-enoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H43N7O17P3S"
     },
     {
         "id": "3_Isopropylbut_3_enoic_acid_c",
         "name": "3-Isopropylbut-3-enoic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C7H11O2"
     },
     {
         "id": "Octanoyl_CoA_c",
         "name": "Octanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H46N7O17P3S"
     },
     {
         "id": "15_methyl_3_hydroxy_hexa_decanoyl_ACP_c",
         "name": "15-methyl-3-hydroxy-hexa-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H53N2O9PRS"
     },
     {
         "id": "4_methyl_hexanoyl_ACP_c",
         "name": "4-methyl-hexanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H33N2O8PRS"
     },
     {
         "id": "N_Methylethanolamine_phosphate_c",
         "name": "N-Methylethanolamine-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C3H9NO4P"
     },
     {
         "id": "CDP_N_methylethanolamine_c",
         "name": "CDP-N-methylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C12H21N4O11P2"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoethanolamine_dodecanoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoethanolamine-dodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H36NO7P"
     },
     {
         "id": "S_Adenosyl_4_methylthio_2_oxobutanoate_c",
         "name": "Adenosyl-4-methylthio-2-oxobutanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C15H19N5O6S"
     },
     {
         "id": "Octadecenoyl_ACP_c",
         "name": "Octadecenoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H53N2O8PRS"
     },
     {
         "id": "Dianteisopentadecanoylphosphatidylglycerol_c",
         "name": "Dianteisopentadecanoylphosphatidylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H70O10P"
     },
     {
         "id": "11_methyl_trans_dodec_2_enoyl_ACP_c",
         "name": "11-methyl-trans-dodec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H43N2O8PRS"
     },
     {
         "id": "1_2_Diisoheptadecanoyl_sn_glycerol_c",
         "name": "1-2-Diisoheptadecanoyl-sn-glycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H72O5"
     },
     {
         "id": "Dianteisoheptadecanoylphosphatidylglycerophosphate_c",
         "name": "Dianteisoheptadecanoylphosphatidylglycerophosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H78O13P2"
     },
     {
         "id": "Dianteisoheptadecanoylphosphatidylglycerol_c",
         "name": "Dianteisoheptadecanoylphosphatidylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H78O10P"
     },
     {
         "id": "phosphatidylserine_dihexadecanoyl_c",
         "name": "phosphatidylserine-dihexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H72NO10P"
     },
     {
         "id": "phosphatidylethanolamine_dihexadecanoyl_c",
         "name": "phosphatidylethanolamine-dihexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C37H74NO8P"
     },
     {
         "id": "Docosenoyl_CoA_c",
         "name": "Docosenoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C43H73N7O17P3S"
     },
     {
         "id": "Erucic_acid_c",
         "name": "Erucic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H41O2"
     },
     {
         "id": "5_Methylcytosine_c",
         "name": "5-Methylcytosine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H7N3O"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoglycerol_octadec_11_enoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoglycerol-octadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H46O9P"
     },
     {
         "id": "Phosphatidylglycerophosphate_ditetradecanoyl_c",
         "name": "Phosphatidylglycerophosphate-ditetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H66O13P2"
     },
     {
         "id": "Phosphatidylglycerol_ditetradecanoyl_c",
         "name": "Phosphatidylglycerol-ditetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H66O10P"
     },
     {
         "id": "Isopentadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Isopentadecanoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C117H228O135P24"
     },
     {
         "id": "Isopentadecanoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Isopentadecanoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C309H540N24O255P24"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoglycerol_hexadecanoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoglycerol-hexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H44O9P"
     },
     {
         "id": "1_isohexadecanoyl_sn_glycerol_3_phosphate_c",
         "name": "1-isohexadecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H38O7P"
     },
     {
         "id": "13Z_16Z_Docosadi_13_16_enoyl_CoA_c",
         "name": "13Z-16Z-Docosadi-13-16-enoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C43H71N7O17P3S"
     },
     {
         "id": "13_16_Docosadienoic_acid_c",
         "name": "13-16-Docosadienoic-acid-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H39O2"
     },
     {
         "id": "UDP_3_O_beta_hydroxymyristoyl_N_acetylglucosamine_c",
         "name": "UDP-3-O-beta-hydroxymyristoyl-N-acetylglucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H51N3O19P2"
     },
     {
         "id": "3_Octaprenyl_4_hydroxybenzoate_c",
         "name": "3-Octaprenyl-4-hydroxybenzoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C47H69O3"
     },
     {
         "id": "Cyclohexanamine_c",
         "name": "Cyclohexanamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H14N"
     },
     {
         "id": "1_2_Dianteisopentadecanoyl_sn_glycerol_c",
         "name": "1-2-Dianteisopentadecanoyl-sn-glycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H64O5"
     },
     {
         "id": "Decanoyl_CoA_c",
         "name": "Decanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H50N7O17P3S"
     },
     {
         "id": "3_Oxododecanoyl_CoA_c",
         "name": "3-Oxododecanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H52N7O18P3S"
     },
     {
         "id": "9_methyl_3_hydroxy_decanoyl_ACP_c",
         "name": "9-methyl-3-hydroxy-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H41N2O9PRS"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoglycerol_hexadecanoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoglycerol-hexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H44O9P"
     },
     {
         "id": "3_Hydroxy_5_methylhex_4_enoyl_CoA_c",
         "name": "3-Hydroxy-5-methylhex-4-enoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H43N7O18P3S"
     },
     {
         "id": "5_Methyl_3_oxo_4_hexenoyl_CoA_c",
         "name": "5-Methyl-3-oxo-4-hexenoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H41N7O18P3S"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoethanolamine_tetradec_7_enoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoethanolamine-tetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H38NO7P"
     },
     {
         "id": "DNA_containing_6_O_methylguanine_c",
         "name": "DNA-containing-6-O-methylguanine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H29N5O17P3R2"
     },
     {
         "id": "Protein_S_methyl_L_cysteine_c",
         "name": "Protein-S-methyl-L-cysteine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H8N2O2R2S"
     },
     {
         "id": "Hydroxymethylphenylsuccinyl_CoA_c",
         "name": "Hydroxymethylphenylsuccinyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C32H42N7O20P3S"
     },
     {
         "id": "1_2_dihydroxy_3_keto_5_methylthiopentene_c",
         "name": "1-2-dihydroxy-3-keto-5-methylthiopentene-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H10O3S"
     },
     {
         "id": "4_methylthio_2_oxobutyrate_c",
         "name": "4-methylthio-2-oxobutyrate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C5H7O3S"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoethanolamine_hexadecanoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoethanolamine-hexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H44NO7P"
     },
     {
         "id": "10_methyl_trans_dodec_2_enoyl_ACP_c",
         "name": "10-methyl-trans-dodec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H43N2O8PRS"
     },
     {
         "id": "10_methyl_dodecanoyl_ACP_c",
         "name": "10-methyl-dodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H45N2O8PRS"
     },
     {
         "id": "S_Aminomethyldihydrolipoylprotein_c",
         "name": "Aminomethyldihydrolipoylprotein-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C2H7NRS2"
     },
     {
         "id": "Diisotetradecanoylphosphatidylethanolamine_c",
         "name": "Diisotetradecanoylphosphatidylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H66NO8P"
     },
     {
         "id": "Isoheptadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Isoheptadecanoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C121H236O135P24"
     },
     {
         "id": "Isoheptadecanoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Isoheptadecanoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C313H548N24O255P24"
     },
     {
         "id": "fa1_c",
         "name": "fa1-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C14H27O2"
     },
     {
         "id": "Inositol_1_3_4_5_tetrakisphosphate_c",
         "name": "Inositol-1-3-4-5-tetrakisphosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H12O18P4"
     },
     {
         "id": "Phosphatidylglycerophosphate_didodecanoyl_c",
         "name": "Phosphatidylglycerophosphate-didodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C30H58O13P2"
     },
     {
         "id": "Phosphatidylglycerol_didodecanoyl_c",
         "name": "Phosphatidylglycerol-didodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C30H58O10P"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoglycerol_dodecanoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoglycerol-dodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H36O9P"
     },
     {
         "id": "Hexadecenoyl_ACP_c",
         "name": "Hexadecenoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H49N2O8PRS"
     },
     {
         "id": "1_hexadec_9_enoyl_sn_glycerol_3_phosphate_c",
         "name": "1-hexadec-9-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H36O7P"
     },
     {
         "id": "2_tetradecanoyl_sn_glycerol_3_phosphate_c",
         "name": "2-tetradecanoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H34O7P"
     },
     {
         "id": "Diisotetradecanoylphosphatidylglycerophosphate_c",
         "name": "Diisotetradecanoylphosphatidylglycerophosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H66O13P2"
     },
     {
         "id": "Diisotetradecanoylphosphatidylglycerol_c",
         "name": "Diisotetradecanoylphosphatidylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H66O10P"
     },
     {
         "id": "CDP_1_2_diisoheptadecanoylglycerol_c",
         "name": "CDP-1-2-diisoheptadecanoylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C46H83N3O15P2"
     },
     {
         "id": "Diisoheptadecanoylphosphatidylserine_c",
         "name": "Diisoheptadecanoylphosphatidylserine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C40H76NO10P"
     },
     {
         "id": "phosphatidylserine_dioctadec_11_enoyl_c",
         "name": "phosphatidylserine-dioctadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H76NO10P"
     },
     {
         "id": "S_Hydroxyhexanoyl_CoA_c",
         "name": "Hydroxyhexanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H42N7O18P3S"
     },
     {
         "id": "3_Oxohexanoyl_CoA_c",
         "name": "3-Oxohexanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H40N7O18P3S"
     },
     {
         "id": "Protein_N6_methyl_L_lysine_c",
         "name": "Protein-N6-methyl-L-lysine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H15N3O2R2"
     },
     {
         "id": "N_Isopropylammelide_c",
         "name": "N-Isopropylammelide-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H10N4O2"
     },
     {
         "id": "9_methyl_trans_dec_2_enoyl_ACP_c",
         "name": "9-methyl-trans-dec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H39N2O8PRS"
     },
     {
         "id": "2_Oxocyclohexane_1_carbonyl_CoA_c",
         "name": "2-Oxocyclohexane-1-carbonyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H41N7O18P3S"
     },
     {
         "id": "4_methyl_trans_pent_2_enoyl_ACP_c",
         "name": "4-methyl-trans-pent-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H29N2O8PRS"
     },
     {
         "id": "R_3_Hydroxyoctanoyl_acyl_carrier_protein_c",
         "name": "R-3-Hydroxyoctanoyl-acyl-carrier-protein-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H36N2O9PRS"
     },
     {
         "id": "2_Octaprenylphenol_c",
         "name": "2-Octaprenylphenol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C46H70O"
     },
     {
         "id": "12_methyl_trans_tridec_2_enoyl_ACP_c",
         "name": "12-methyl-trans-tridec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H45N2O8PRS"
     },
     {
         "id": "Protein_N6_N6_dimethyl_L_lysine_c",
         "name": "Protein-N6-N6-dimethyl-L-lysine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C9H17N3O2R2"
     },
     {
         "id": "Protein_N6_N6_N6_trimethyl_L_lysine_c",
         "name": "Protein-N6-N6-N6-trimethyl-L-lysine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C10H20N3O2R2"
     },
     {
         "id": "4a_Hydroxytetrahydrobiopterin_c",
         "name": "4a-Hydroxytetrahydrobiopterin-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C9H15N5O4"
     },
     {
         "id": "fa11_c",
         "name": "fa11-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H33O2"
     },
     {
         "id": "Dianteisoheptadecanoylphosphatidylethanolamine_c",
         "name": "Dianteisoheptadecanoylphosphatidylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C39H78NO8P"
     },
     {
         "id": "KDO_lipid_IVA_c",
         "name": "KDO-lipid-IVA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C76H137N2O30P2"
     },
     {
         "id": "kdo2_lipid_iva_c",
         "name": "kdo2-lipid-iva-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C84H148N2O37P2"
     },
     {
         "id": "2E_Hexadecenoyl_acp_c",
         "name": "2E-Hexadecenoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H49N2O8PRS"
     },
     {
         "id": "2E_Tetradecenoyl_acp_c",
         "name": "2E-Tetradecenoyl-acp-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H45N2O8PRS"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoethanolamine_tetradec_7_enoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoethanolamine-tetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H38NO7P"
     },
     {
         "id": "14_methyl_trans_hexa_dec_2_enoyl_ACP_c",
         "name": "14-methyl-trans-hexa-dec-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C28H51N2O8PRS"
     },
     {
         "id": "fa3_c",
         "name": "fa3-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C15H29O2"
     },
     {
         "id": "S_3_Hydroxydodecanoyl_CoA_c",
         "name": "3-Hydroxydodecanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H54N7O18P3S"
     },
     {
         "id": "3_Oxo_2_methylpropanoate_c",
         "name": "3-Oxo-2-methylpropanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C4H5O3"
     },
     {
         "id": "phosphatidylserine_ditetradec_7_enoyl_c",
         "name": "phosphatidylserine-ditetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C34H60NO10P"
     },
     {
         "id": "phosphatidylethanolamine_ditetradec_7_enoyl_c",
         "name": "phosphatidylethanolamine-ditetradec-7-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H62NO8P"
     },
     {
         "id": "tetracosanoate_c",
         "name": "tetracosanoate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H47O2"
     },
     {
         "id": "4_Hydroxymethylsalicylaldehyde_c",
         "name": "4-Hydroxymethylsalicylaldehyde-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H8O3"
     },
     {
         "id": "4_Hydroxymethylsalicylate_c",
         "name": "4-Hydroxymethylsalicylate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C8H7O4"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoglycerol_tetradecanoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoglycerol-tetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C20H40O9P"
     },
     {
         "id": "Isohexadecanoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Isohexadecanoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C119H232O135P24"
     },
     {
         "id": "Isohexadecanoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Isohexadecanoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C311H544N24O255P24"
     },
     {
         "id": "2_tetradec_7_enoyl_sn_glycerol_3_phosphate_c",
         "name": "2-tetradec-7-enoyl-sn-glycerol-3-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C17H32O7P"
     },
     {
         "id": "Propionyl_phosphate_c",
         "name": "Propionyl-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C3H5O5P"
     },
     {
         "id": "1_2_Diacyl_sn_glycerol_didodecanoyl_c",
         "name": "1-2-Diacyl-sn-glycerol-didodecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C27H52O5"
     },
     {
         "id": "4_methyl_trans_hex_2_enoyl_ACP_c",
         "name": "4-methyl-trans-hex-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H31N2O8PRS"
     },
     {
         "id": "2_Octaprenyl_6_hydroxyphenol_c",
         "name": "2-Octaprenyl-6-hydroxyphenol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C46H70O2"
     },
     {
         "id": "6_methyl_3_hydroxy_heptanoyl_ACP_c",
         "name": "6-methyl-3-hydroxy-heptanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C19H35N2O9PRS"
     },
     {
         "id": "8_methyl_trans_non_2_enoyl_ACP_c",
         "name": "8-methyl-trans-non-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H37N2O8PRS"
     },
     {
         "id": "8_methyl_nonanoyl_ACP_c",
         "name": "8-methyl-nonanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H39N2O8PRS"
     },
     {
         "id": "2_Hydroxy_3_keto_5_methylthiopentenyl_1_phosphate_c",
         "name": "2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C6H9O6PS"
     },
     {
         "id": "phosphatidylethanolamine_dioctadec_11_enoyl_c",
         "name": "phosphatidylethanolamine-dioctadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C41H78NO8P"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoethanolamine_hexadec_9_enoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoethanolamine-hexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C21H42NO7P"
     },
     {
         "id": "Diisoheptadecanoylphosphatidylethanolamine_c",
         "name": "Diisoheptadecanoylphosphatidylethanolamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C39H78NO8P"
     },
     {
         "id": "8_methyl_3_hydroxy_decanoyl_ACP_c",
         "name": "8-methyl-3-hydroxy-decanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H41N2O9PRS"
     },
     {
         "id": "4_methyl_3_hydroxy_hexanoyl_ACP_c",
         "name": "4-methyl-3-hydroxy-hexanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H33N2O9PRS"
     },
     {
         "id": "Phosphatidylglycerol_dihexadecanoyl_c",
         "name": "Phosphatidylglycerol-dihexadecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C38H74O10P"
     },
     {
         "id": "Phosphatidylglycerol_dioctadec_11_enoyl_c",
         "name": "Phosphatidylglycerol-dioctadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H78O10P"
     },
     {
         "id": "Myristoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Myristoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C115H224O135P24"
     },
     {
         "id": "Myristoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Myristoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C307H536N24O255P24"
     },
     {
         "id": "Diisopentadecanoylphosphatidylglycerol_c",
         "name": "Diisopentadecanoylphosphatidylglycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C36H70O10P"
     },
     {
         "id": "5_10_Methenyltetrahydromethanopterin_c",
         "name": "5-10-Methenyltetrahydromethanopterin-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H41N6O16P"
     },
     {
         "id": "1_Acyl_sn_glycero_3_phosphoglycerol_octadec_11_enoyl_c",
         "name": "1-Acyl-sn-glycero-3-phosphoglycerol-octadec-11-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H46O9P"
     },
     {
         "id": "1_2_Diisotetradecanoyl_sn_glycerol_c",
         "name": "1-2-Diisotetradecanoyl-sn-glycerol-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H60O5"
     },
     {
         "id": "10_methyl_3_hydroxy_dodecanoyl_ACP_c",
         "name": "10-methyl-3-hydroxy-dodecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C24H45N2O9PRS"
     },
     {
         "id": "Lauroyl_CoA_c",
         "name": "Lauroyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C33H54N7O17P3S"
     },
     {
         "id": "12_methyl_3_oxo_tridecanoyl_ACP_c",
         "name": "12-methyl-3-oxo-tridecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H45N2O9PRS"
     },
     {
         "id": "12_methyl_3_hydroxy_tridecanoyl_ACP_c",
         "name": "12-methyl-3-hydroxy-tridecanoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C25H47N2O9PRS"
     },
     {
         "id": "S_Hydroxyoctanoyl_CoA_c",
         "name": "Hydroxyoctanoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C29H46N7O18P3S"
     },
     {
         "id": "Isotetradecanoyllipoteichoic_acid_n24__linked__unsubstituted_c",
         "name": "Isotetradecanoyllipoteichoic-acid-n24-linked-unsubstituted-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C115H224O135P24"
     },
     {
         "id": "Isotetradecanoyllipoteichoic_acid_n24__linked__N_acetyl_D_glucosamine_c",
         "name": "Isotetradecanoyllipoteichoic-acid-n24-linked-N-acetyl-D-glucosamine-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C307H536N24O255P24"
     },
     {
         "id": "2_Acyl_sn_glycero_3_phosphoglycerol_hexadec_9_enoyl_c",
         "name": "2-Acyl-sn-glycero-3-phosphoglycerol-hexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C22H42O9P"
     },
     {
         "id": "Octadecenoyl_CoA_c",
         "name": "Octadecenoyl-CoA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C39H65N7O17P3S"
     },
     {
         "id": "5_methyl_trans_hex_2_enoyl_ACP_c",
         "name": "5-methyl-trans-hex-2-enoyl-ACP-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C18H31N2O8PRS"
     },
     {
         "id": "1_2_Diacyl_sn_glycerol_ditetradecanoyl_c",
         "name": "1-2-Diacyl-sn-glycerol-ditetradecanoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H60O5"
     },
     {
         "id": "Maltoheptaose_c",
         "name": "Maltoheptaose-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C42H72O36"
     },
     {
         "id": "1_2_Diacyl_sn_glycerol_dihexadec_9_enoyl_c",
         "name": "1-2-Diacyl-sn-glycerol-dihexadec-9-enoyl-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C35H64O5"
     },
     {
         "id": "phospho_heptosyl_phospho_heptosyl_heptosyl_kdo2_lipidA_c",
         "name": "phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C131H230N2O63P4"
     },
     {
         "id": "kdo_phospho_heptosyl_phospho_heptosyl_heptosyl_kdo2_lipidA_c",
         "name": "kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C139H241N2O70P4"
     },
     {
         "id": "glucosyl_inner_core_oligosaccharide_lipid_A_c",
         "name": "glucosyl-inner-core-oligosaccharide-lipid-A-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C151H261N2O79P4"
     },
     {
         "id": "galactosyl_glucosyl_inner_core_oligosaccharide_lipid_A_c",
         "name": "galactosyl-glucosyl-inner-core-oligosaccharide-lipid-A-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C157H271N2O84P4"
     },
     {
         "id": "Isoheptadecanoylcardiolipin_B_subtilis_c",
         "name": "Isoheptadecanoylcardiolipin-B-subtilis-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C77H148O17P2"
     },
     {
         "id": "Anteisoheptadecanoylcardiolipin_B_subtilis_c",
         "name": "Anteisoheptadecanoylcardiolipin-B-subtilis-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C77H148O17P2"
     },
     {
         "id": "glucosyl_galactosyl_glucosyl_inner_core_oligosaccharide_lipid_A_c",
         "name": "glucosyl-galactosyl-glucosyl-inner-core-oligosaccharide-lipid-A-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C163H281N2O89P4"
     },
     {
         "id": "glucosyl_glucosyl_galactosyl_glucosyl_inner_core_oligosaccharide_lipid_A_c",
         "name": "glucosyl-glucosyl-galactosyl-glucosyl-inner-core-oligosaccharide-lipid-A-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C169H291N2O94P4"
     },
     {
         "id": "inner_core_oligosaccharide_lipid_A_c",
         "name": "inner-core-oligosaccharide-lipid-A-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C145H255N2O74P4"
     },
     {
         "id": "core_oligosaccharide_lipid_A_c",
         "name": "core-oligosaccharide-lipid-A-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C176H303N2O100P4"
     },
     {
         "id": "Lauroyl_KDO2_lipid_IVA_c",
         "name": "Lauroyl-KDO2-lipid-IVA-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C96H170N2O38P2"
     },
     {
         "id": "Palmitoleic_acid_c",
         "name": "Palmitoleic-acid",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C16H29O2"
     },
     {
         "id": "cpd16330_PQQ_dicarboxylicAcid_c",
         "name": "6-(2-Amino-2-carboxyethyl)-7,8-dioxo-1,2,3,4,7,8-hexahydroquinoline-2,4-dicarboxylic acid",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C14H12N2O8"
     },
     {
         "id": "5_10_Methylenetetrahydromethanopterin_c",
         "name": "5-10-Methylenetetrahydromethanopterin-c",
-        "compartment": "c"
+        "compartment": "c",
+        "charge": 0,
+        "formula": "C31H42N6O16P"
     }
 ]
