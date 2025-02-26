@@ -345,6 +345,11 @@
         "compartment": "c"
     },
     {
+        "id": "4MOP_c",
+        "name": "4MOP-c",
+        "compartment": "c"
+    },
+    {
         "id": "4_methyl_3_hydroxy_hexanoyl_ACP_c",
         "name": "4-methyl-3-hydroxy-hexanoyl-ACP-c",
         "compartment": "c"
@@ -685,6 +690,16 @@
         "compartment": "c"
     },
     {
+        "id": "Glycerol_3_phosphate_c",
+        "name": "Glycerol-3-phosphate-c",
+        "compartment": "c"
+    },
+    {
+        "id": "Glycerol_c",
+        "name": "Glycerol-c",
+        "compartment": "c"
+    },
+    {
         "id": "Hexadecenoyl_CoA_c",
         "name": "Hexadecenoyl-CoA-c",
         "compartment": "c"
@@ -707,6 +722,21 @@
     {
         "id": "Isovaleryl_CoA_c",
         "name": "Isovaleryl-CoA-c",
+        "compartment": "c"
+    },
+    {
+        "id": "L_Glutamate_c",
+        "name": "L-Glutamate-c",
+        "compartment": "c"
+    },
+    {
+        "id": "L_Leucine_c",
+        "name": "L-Leucine-c",
+        "compartment": "c"
+    },
+    {
+        "id": "L_Serine_c",
+        "name": "L-Serine-c",
         "compartment": "c"
     },
     {
@@ -747,6 +777,21 @@
     {
         "id": "Myristoyl_CoA_c",
         "name": "Myristoyl-CoA-c",
+        "compartment": "c"
+    },
+    {
+        "id": "NADH_c",
+        "name": "NADH-c",
+        "compartment": "c"
+    },
+    {
+        "id": "NADPH_c",
+        "name": "NADPH-c",
+        "compartment": "c"
+    },
+    {
+        "id": "NADP_c",
+        "name": "NADP-c",
         "compartment": "c"
     },
     {
@@ -857,6 +902,11 @@
     {
         "id": "core_oligosaccharide_lipid_A_c",
         "name": "core-oligosaccharide-lipid-A-c",
+        "compartment": "c"
+    },
+    {
+        "id": "dTDP_c",
+        "name": "dTDP-c",
         "compartment": "c"
     },
     {
@@ -997,6 +1047,11 @@
     {
         "id": "phospho_heptosyl_phospho_heptosyl_heptosyl_kdo2_lipidA_c",
         "name": "phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA-c",
+        "compartment": "c"
+    },
+    {
+        "id": "strcoa_c",
+        "name": "strcoa-c",
         "compartment": "c"
     },
     {
