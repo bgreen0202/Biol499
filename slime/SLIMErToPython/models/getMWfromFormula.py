@@ -5,6 +5,8 @@ def getMWfromFormula(metFormulas):
     """
     Direct translation of getMWfromFormula from MATLAB to Python (Benjamín J. Sánchez, 2018-09-04).
     Gets MW based on checical formula in g/mmol.
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     # Atomic weights (g/mol, same order as elements)

@@ -7,6 +7,8 @@ def addSLIMErxn(model, rxnID, specID):
     """
     Python translation of addSLIMErxn from MATLAB to COBRApy.
     Adds SLIME reactions to model.
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     toDelete = False
     

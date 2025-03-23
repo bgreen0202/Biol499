@@ -6,7 +6,6 @@ def sumBioMass(model, comps):
     Calculates the breakdown of biomass into fractions.
 
     Parameters:
-        model (cobra.Model): The metabolic model.
         comps (list): List of tuples, where each tuple contains:
             (metabolite ID, molecular weight, component type).
 
@@ -18,6 +17,8 @@ def sumBioMass(model, comps):
             R: RNA fraction [g/gDW]
             D: DNA fraction [g/gDW]
             L: Lipid fraction [g/gDW]
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     # Extract stoichiometric matrix

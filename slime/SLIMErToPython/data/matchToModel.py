@@ -4,6 +4,8 @@ from itertools import permutations
 def match_to_model(model, met_name):
     """
     Checks metabolite name against known mappings, processes tail group variations and returns matching positions in model.
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     codes = {

@@ -1,0 +1,8 @@
+short name,name,ID in model,REF
+PE,phosphatidylethanolamine,s_0089[c],0.003637
+PG,phosphatidylglycerol,s_0089[c],0.003637
+CL, cardiolipin, s_0089[c],0.003637
+PS,phosphatidylserine,s_1337[c],0.003132
+FFA,fatty acid,s_0694[c],0.000779
+
+# unsure of what we're gonna do for the backbones

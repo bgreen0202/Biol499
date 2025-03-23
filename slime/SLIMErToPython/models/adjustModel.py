@@ -12,10 +12,9 @@ def adjustModel(model, k, block, scaling):
         block (bool): Whether to block exchange reactions for tails and backbones.
         scaling (str): Either 'backbones' or 'tails', indicating which pseudoreaction to rescale.
 
-    Returns:
-        cobra.Model: Modified metabolic model.
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
-    # Extract model data
+    # Extract model data because they use a matrix for scaling
     S, rxnNames, rxns = extractModelStoichMatrix(model)
 
     # Block exchange of tails and backbones
@@ -31,7 +30,6 @@ def adjustModel(model, k, block, scaling):
             rxn = model.reactions.get_by_id(rxns[posB[0]])
             rxn.bounds = (0, 0)
 
-    # Determine which pseudoreaction to rescale
     if scaling == 'backbones':
         rxnName = 'lipid pseudoreaction - backbone'
     elif scaling == 'tails':
@@ -39,18 +37,16 @@ def adjustModel(model, k, block, scaling):
     else:
         raise ValueError(f"Invalid scaling type: {scaling}")
 
-    # Find positions
     scaleRxnPos = np.where(np.array(rxnNames) == rxnName)[0]
     if scaleRxnPos.size == 0:
         raise ValueError(f"Reaction '{rxnName}' not found in model.")
 
     scaleRxnPos = scaleRxnPos[0]
 
-    # Find metabolites associated with the pseudoreaction (negative stoichiometry = reactants)
     scaleMets = np.where(S[:, scaleRxnPos] < 0)[0]
 
     # Rescale stoichiometric coefficients
     for metPos in scaleMets:
         S[metPos, scaleRxnPos] *= k
 
-    return model  # The model itself is modified, but S is not automatically updated in COBRApy
+    return model 

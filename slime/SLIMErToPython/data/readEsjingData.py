@@ -3,6 +3,8 @@ import pandas as pd
 def readEsjingData(i, filename='fullData_Ejsing2009.csv'):
     """
     Reads lipid data from a csv, selects appropriate abundunces and st. dev. columns and filters out unwanted species.
+    
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
 

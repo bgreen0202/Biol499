@@ -10,6 +10,8 @@ def convertEsjingData(data_old, model, condense):
     """
     Reads data from a CSV, extracts name, abundunce, st. dev and removes lipid that contain 10, 12, 14, 20, 22
     carbon chains OR contain :2 in their names OR don't belong to lipid classes, then creates a dictionary.
+
+    ***note that this is a direct translation rn and we'll need to make some adjustments for our model
     """
 
     MWs = np.zeros(len(data_old['metNames']))

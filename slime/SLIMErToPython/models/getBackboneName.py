@@ -5,6 +5,8 @@ def getBackboneName(spec_name):
     Direct translation of the MATLAB function getBackboneName into Python using COBRApy.
     Works with a single metabolite ID and parses out the backbone name.
     Handles parsing out the compartment from name.
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     back_name = ""

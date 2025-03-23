@@ -7,6 +7,7 @@ def changeOtherComp(model, data):
     Changes composition for other stuff in BIOMASS objective function
 
     most data we need to change to reflect ours
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     otherData = data['otherData']
@@ -82,7 +83,7 @@ def changeOtherComp(model, data):
         modelPos = model.mets.index(met)
         model.S[modelPos, carbPos] *= fC
 
-    # Estimate polymerization-associated maintenance energy (GAMpol)
+    # Estimate polymerization-associated maintenance energy
     _, P, C, R, D, _ = sumBioMass(model, comps)
     GAMpol = P * 37.7 + C * 12.8 + R * 26.0 + D * 26.0 
 

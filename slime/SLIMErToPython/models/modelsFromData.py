@@ -8,7 +8,6 @@ def modelsFromData(model, data, scaling):
     It takes the original model and experimental data, then outputs new models with correction.
 
     Parameters:
-        model (cobra.Model)
         data (dict): Experimental data, including lipid composition and other components.
         scaling (float): Scaling factor for adjusting abundances.
 
@@ -18,6 +17,9 @@ def modelsFromData(model, data, scaling):
             model_SLIMEr: Model with lipid and chain length constraints.
             k: Scaling factor applied to abundances.
             GAMpol: Polymerization-associated growth-associated maintenance energy.
+
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     # Model with lipid composition corrected

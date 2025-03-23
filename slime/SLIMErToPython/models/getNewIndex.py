@@ -4,6 +4,8 @@ def getNewIndex(ids):
     """
     Direct translation of getNewIndex from MATLAB to Python (Benjamín J. Sánchez, 2018-09-04).
     Numbers from each id is extracted, works for both reactions (r_###) and metabolites (s_###)
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     # Extract numeric parts from the IDs
     numeric_ids = []

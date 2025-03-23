@@ -5,6 +5,8 @@ def addLipidSpecies(model, metName, metFormula, exchange):
     """
     Direct translation of the MATLAB function addLipidSpecies into Python using COBRApy.
     Add lipid species and exchange reactions if needed to the model.
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     newID = getNewIndex(model.metabolites)
 

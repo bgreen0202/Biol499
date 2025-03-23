@@ -12,8 +12,8 @@ def changeChainComp(model, chainData):
             'metNames': List of tail metabolite base names (without compartment suffix).
             'abundance': List of abundances for each tail metabolite.
     
-    Returns:
-        cobra.Model: Updated metabolic model.
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     # Identify metabolite IDs for the tails
     tailIDs = []
@@ -54,7 +54,7 @@ def changeChainComp(model, chainData):
 
     #printRxnFormula(model, rxnID, True, True, True)
 
-    # Set confidence score if that attribute exists (assuming you have rxnConfidenceScores)
+    # Set confidence score 
     if hasattr(model, 'rxnConfidenceScores'):
         rxnIndex = model.rxns.index(rxnID)
         model.rxnConfidenceScores[rxnIndex] = 1

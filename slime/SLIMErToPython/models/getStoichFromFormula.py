@@ -6,6 +6,9 @@ def getStoichFromFormula(metFormulas, element):
     Direct translation of getStoichFromFormula from MATLAB to Python (Benjamín J. Sánchez, 2018-09-04).
     Gets stoich coeff for a certain element in all metabolites formulas 
     ie: metFormulas = ['C6H12O6', 'H2O', 'C2H5OH'] element = "C", printed output = [6. 0. 2.]
+
+
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     stoich = np.zeros(len(metFormulas), dtype=float)
 

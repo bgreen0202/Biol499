@@ -8,6 +8,7 @@ def scaleAbundancesInModel(model, data, scaling):
     """
     Direct translation of scaleAbundancesInModel from MATLAB to Python (Benjamín J. Sánchez, 2018-09-04).
 
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     # Initial guess for k
     k0 = 1
@@ -43,7 +44,7 @@ def unusedLipid(k, model, data, scaling):
     Objective function to minimize unused lipid abundance.
     """
 
-    # Adjust stoichiometry using the candidate scaling factor
+    # Adjust stoichiometry using scaling factor
     model = adjustModel(model, k, False, scaling)
 
     # Simulate growth
@@ -67,10 +68,10 @@ def minScaling(k, model, data, scaling, kOpt):
     Objective function to find the minimum k within feasible range.
     """
 
-    # Adjust stoichiometry with candidate k
+    # Adjust stoichiometry with k
     model = adjustModel(model, k, True, scaling)
 
-    # Simulate growth and get NGAM (non-growth associated maintenance)
+    # Simulate growth and get NGAM 
     try:
         sol = simulateGrowth(model, data['fluxData'])
         posNGAM = getReactionIndex(model, 'non-growth associated maintenance reaction')

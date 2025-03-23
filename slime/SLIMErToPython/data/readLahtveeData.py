@@ -3,6 +3,8 @@ import pandas as pd
 def readLahtveeData(i):
     """
     Reads data from a CSV and stores it in a dict.
+    
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     data = {}
     

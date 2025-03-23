@@ -9,6 +9,8 @@ from slime.SLIMErToPython.models import modelsFromData
 Direct translation of createNewModels from MATLAB to Python (Benjamín J. Sánchez, 2018-09-04).
 Loads the original model, creates various new models, reads the data for the associated model.
 
+
+***note that this is a direct translation rn and we'll need to make adjustments for our model
 """
 
 # WE NEED TO MAKE THIS BASED ON OUR DATA BUT I DONT UNDERSTAND WHAT THEY ARE DOING EXACTLY

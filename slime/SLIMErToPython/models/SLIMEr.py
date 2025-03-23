@@ -10,13 +10,7 @@ def SLIMEr(model, data, includeTails):
     Python translation of SLIMEr.
     Adapted from the MATLAB function by Benjamín J. Sánchez (2018-05-20).
 
-    Parameters:
-        model (cobra.Model): The COBRApy model to modify.
-        data (dict): Lipid and chain data.
-        includeTails (bool): Whether to include fatty acid tails.
-
-    Returns:
-        cobra.Model: Modified model.
+    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     # Add new backbones
