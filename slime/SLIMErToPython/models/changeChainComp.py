@@ -16,13 +16,14 @@ def changeChainComp(model, chainData):
     ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
     # Identify metabolite IDs for the tails
+    metabolite_lookup = {met.name: met for met in model.metabolites}  # only one pass through model.metabolites
+
     tailIDs = []
     for metName in chainData['metNames']:
-        tailName = metName + ' [cytoplasm]'
-        try:
-            tailMet = next(met for met in model.metabolites if met.name == tailName)
-            tailIDs.append(tailMet)
-        except StopIteration:
+        tailName = metName
+        if tailName in metabolite_lookup:
+            tailIDs.append(metabolite_lookup[tailName])
+        else:
             raise ValueError(f"Metabolite {tailName} not found in model.")
     
     # Generate new reaction ID and name
@@ -31,10 +32,9 @@ def changeChainComp(model, chainData):
     rxnName = 'lipid pseudoreaction - tail'
     
     # Find the main 'lipid - tails' metabolite
-    try:
-        tailMet = next(met for met in model.metabolites if met.name == 'lipid - tails [cytoplasm]')
-    except StopIteration:
-        raise ValueError("Metabolite 'lipid - tails [cytoplasm]' not found in model.")
+    if 'lipid - tails' not in metabolite_lookup:
+        raise ValueError("Metabolite 'lipid - tails' not found in model.")
+    tailMet = metabolite_lookup['lipid - tails']
     
     # Create the new reaction
     reaction = cobra.Reaction(rxnID)
@@ -47,16 +47,9 @@ def changeChainComp(model, chainData):
     # chainData['abundance'] = [0.3, 0.7]
     # [('C16:0', 0.3), ('C18:0', 0.7)]
     metabolites_dict = {met: -abundance for met, abundance in zip(tailIDs, chainData['abundance'])}
-    metabolites_dict[tailMet] = 1  #T his ensures that lipid - tails is produced with a coefficient of +1.
+    metabolites_dict[tailMet] = 1  # This ensures that lipid - tails is produced with a coefficient of +1.
     
     reaction.add_metabolites(metabolites_dict)
     model.add_reactions([reaction])
-
-    #printRxnFormula(model, rxnID, True, True, True)
-
-    # Set confidence score 
-    if hasattr(model, 'rxnConfidenceScores'):
-        rxnIndex = model.rxns.index(rxnID)
-        model.rxnConfidenceScores[rxnIndex] = 1
 
     return model

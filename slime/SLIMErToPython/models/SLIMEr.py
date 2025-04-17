@@ -9,8 +9,6 @@ def SLIMEr(model, data, includeTails):
     """
     Python translation of SLIMEr.
     Adapted from the MATLAB function by Benjamín J. Sánchez (2018-05-20).
-
-    ***note that this is a direct translation rn and we'll need to make adjustments for our model
     """
 
     # Add new backbones
@@ -19,11 +17,7 @@ def SLIMEr(model, data, includeTails):
         if backName:
             existing_met = model.metabolites.get_by_id(backName) if backName in model.metabolites else None
             
-            if existing_met:
-                if not backName.startswith('ergosterol ['):
-                    existing_met.formula = ''
-            else:
-                model = addLipidSpecies(model, backName, '', False)
+            model = addLipidSpecies(model, backName, '', False)
 
             # Add transport reaction to cytoplasm for non-cytoplasmic backbones
             if 'cytoplasm' not in backName:

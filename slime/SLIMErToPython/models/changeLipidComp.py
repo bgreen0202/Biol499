@@ -1,46 +1,44 @@
+from cobra import Reaction
 from SLIMErToPython.models import getNewIndex
-import cobra 
 
 def changeLipidComp(model, lipidData):
     """
-    Direct translation of changeLipidComp from MATLAB to Python (Benjamín J. Sánchez, 2018-05-20).
-    Changes stoichiometric data for backbone
-
-    ***note that this is a direct translation rn and we'll need to make adjustments for our model
+    Python version of changeLipidComp that updates the lipid backbone pseudo-reaction.
+    Uses classic for-loops for clarity, no zip or comprehension.
     """
 
     # Detect if the model has a metabolite for backbones
-    metPos = [i for i, name in enumerate(model.metNames) if name == 'lipid - backbones [cytoplasm]']
-    if len(metPos) > 0:
+    metID = None
+    for met in model.metabolites:
+        if met.name == 'lipid - backbones':
+            metID = met.id
+            break
+
+    if metID:
         # Create new pseudo-reaction for backbones
-        newID = getNewIndex(model.rxns) 
-        rxnID = 'r_' + newID
+        newID = getNewIndex(model.reactions)
+        rxnID = f'r_{newID}'
         rxnName = 'lipid pseudoreaction - backbone'
-        metID = model.mets[metPos[0]]
     else:
-        # Modify normal lipid pseudo-reaction --> OBVIOUSLY NEED TO MAKE ONE FOR US WHAT ID?
+        # Use fallback 
         rxnID = 'r_2108'
         rxnName = 'lipid pseudoreaction'
-        metID = 's_1096[c]'
+        metID = 's_1096[c]'  # Assume this ID exists in the model
 
     # Create lipid pseudo-reaction for backbones (or modify normal one)
     metaboliteList = lipidData['metIDs'] + [metID]
     stoichCoeffList = [-x for x in lipidData['abundance']] + [1]
 
-    model.add_reaction(model, rxnID,
-                        reactionName=rxnName,
-                        metaboliteList=metaboliteList,
-                        stoichCoeffList=stoichCoeffList,
-                        reversible=False,
-                        lowerBound=0,
-                        upperBound=1000)
+    stoichDict = {}
+    for i in range(len(metaboliteList)):
+        met = model.metabolites.get_by_id(metaboliteList[i])
+        coeff = stoichCoeffList[i]
+        stoichDict[met] = coeff
 
-    # Print reaction formula
-    #printRxnFormula(model, rxnID, True, True, True)
-
-    # Set confidence score
-    if hasattr(model, 'rxnConfidenceScores'):
-        rxnIndex = model.rxns.index(rxnID)
-        model.rxnConfidenceScores[rxnIndex] = 1
+    # Create and add the reaction
+    rxn = Reaction(id=rxnID, name=rxnName, lower_bound=0, upper_bound=1000)
+    rxn.add_metabolites(stoichDict)
+    model.add_reactions([rxn])
 
     return model
+
